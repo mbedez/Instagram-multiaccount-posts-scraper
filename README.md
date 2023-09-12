@@ -3,7 +3,7 @@
 [Intro](#What-is-it) - [Setup](#What-do-you-need-in-order-to-set-it-up) - [Execution](#What-do-you-need-in-order-to-run-it-up)
 ***
 ## What is it?
-This is a script created to get all the dates of posts of differents instagram accounts automaticcaly in a CSV file using instaloader.
+This is a script created to get all the dates of posts of differents instagram accounts automatically in a CSV file using instaloader.
 ***
 ## What do you need in order to set it up?
 FafBot runs in python with the help of the **pycord** package. In order to run the bot, you will need a few things :

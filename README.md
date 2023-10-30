@@ -6,7 +6,6 @@
 This is a script created to get all the dates of posts of differents instagram accounts automatically in a CSV file using instaloader.
 ***
 ## What do you need in order to set it up?
-FafBot runs in python with the help of the **pycord** package. In order to run the bot, you will need a few things :
 - python3 (*of course*)
 - An instagram account
 - Firefox
